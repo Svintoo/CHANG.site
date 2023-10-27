@@ -1,0 +1,21 @@
+.container{
+display: flex;
+flex-direction: column;
+justify-content: start;
+align-items: center;
+width: 100vw;
+height: 100vh;
+background-color:transparent;
+position: absolute;
+
+
+}
+
+
+#introHeader{
+    z-index: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color: yellow;
+    text-shadow: 5px 5px 0 black;
+}
